@@ -13,7 +13,7 @@ This game was created by Solomon Wiznitzer and Michael Wiznitzer as a final proj
 
 **Dependencies:** Requires the OpenCV and Pygame libraries
 
-To play the game, clone the repo and type `python fingersniper.py` in the terminal window.
+**Game Play:** To play the game, clone the repo and type `python fingersniper.py` in the terminal window.
 
 ## Technical Overview
 
